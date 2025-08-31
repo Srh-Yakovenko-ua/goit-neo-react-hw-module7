@@ -6,7 +6,6 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "lint": "eslint ../../../../private/var/folders/qk/t1d4__fx7x77rbgl23cbt33w0000gn/T/MicrosoftEdgeDownloads/7474996b-946c-4a33-8948-f909c85c341c/goit-neo-react-hw-module3-main",
     "preview": "vite preview"
   },
   "dependencies": {
