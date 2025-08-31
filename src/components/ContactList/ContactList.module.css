@@ -1,0 +1,20 @@
+.container {
+  padding: 1rem;
+  border: 1px solid #c23030;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.container > div {
+  margin-bottom: 20px;
+}
+
+.emptyMessage {
+  padding: 10px;
+}
+.error {
+  color: red;
+}
